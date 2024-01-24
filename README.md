@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit Sinha</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A asspiring Software Engineer from India</h3>
 
 <img align="right" alt="cofing" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
